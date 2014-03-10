@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BizzBuzz</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_instruction">Instruction</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="ret">Return</string>
+    <string name="title_activity_bizz_buzz">BizzBuzz</string>
+    <string name="bizz">Bizz</string>
+    <string name="buzz">Buzz</string>
+    <string name="bizzbuzz">BizzBuzz</string>
+    <string name="enter">Enter</string>
+    <string name="lets_play">Lets Play</string>
+    <string name="play">Play</string>
+    <string name="inst">Instructions</string>
+    <string name="action_search">Search</string>
+
+</resources>
